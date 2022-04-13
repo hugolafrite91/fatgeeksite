@@ -1,0 +1,315 @@
+h1
+{
+
+  color: red;
+
+}
+
+body
+{
+
+  background-color: lightgreen;
+
+}
+
+#about
+{
+margin: 75px 100px 20px;
+
+border-radius: 0.5rem;
+ width: 500px;
+
+
+color: royalblue;
+
+background-color: white;
+
+text-align: right;
+
+
+align-content: right;
+
+    font-family: "Montserrat", sans-serif;
+    padding: 2em;
+
+}
+
+
+
+#name
+{
+	margin: 000px 00px 10px;
+font-size: 4em;
+
+ width: 1400px; 
+ height: 150px;
+
+margin: 0px 0px 0px 100px;
+
+color: white;
+
+border-radius: 10px 0px 0px 10px;
+
+background-color: blue;
+
+text-align: left;
+
+
+
+    font-family: "Montserrat", sans-serif;
+    padding: 0padding: 0;
+}
+
+
+
+#links
+{
+
+font-size: 1em;
+
+ width: 1450px; 
+ height: 50px;
+
+margin:-5;
+
+color: ghostwhite;
+
+
+
+  border-radius: 0px 10px 10px 0px;
+background-color: white;
+
+text-align: right;
+
+
+align-content: right;
+
+    font-family: "Montserrat", sans-serif;
+    padding: 0.3em;
+}
+
+
+#buy
+{
+    font-size: 1.2em;
+margin: 50px 100px 50px 100px ;
+
+ width: 1250px;
+
+margin:10 auto;
+
+color: Blue;
+
+background-color: black;
+border-radius: ;
+text-align: right;
+
+
+align-content: right;
+
+    font-family: "Montserrat", sans-serif;
+    padding: 2em;
+    border-radius: 1rem;
+
+
+}
+
+
+#team
+{
+margin: -550px 400px 50px 825px ;
+
+ width: 445px;
+
+margin:10 auto;
+
+color: Blue;
+
+background-color: black;
+
+text-align: right;
+border-radius: 0.5rem;
+
+align-content: right;
+
+    font-family: "Montserrat", sans-serif;
+    padding: 2em;
+}
+
+
+
+
+
+
+#specs
+{
+margin: 50px 100px 20px;
+
+ width: 500px;
+
+margin:10 auto;
+
+color: royalblue;
+
+background-color: white;
+
+text-align: right;
+border-radius: 0.5rem;
+
+align-content: right;
+
+    font-family: "Montserrat", sans-serif;
+    padding: 2em;
+}
+
+
+
+
+
+#welcome
+
+{
+margin: 10px 100px 20px;
+
+ width: 500px;
+
+margin:10 auto;
+
+color: royalblue;
+
+background-color: white;
+
+text-align: right;
+border-radius: 0.5rem;
+
+align-content: right;
+
+    font-family: "Montserrat", sans-serif;
+    padding: 2em;
+}
+
+
+
+
+
+#roadmap
+
+{
+ 
+margin: 10px 100px 20px;
+
+ width: 500px;
+
+margin:10 auto;
+
+color: royalblue;
+
+background-color: white;
+
+text-align: right;
+
+border-radius: 0.5rem;
+align-content: right;
+
+    font-family: "Montserrat", sans-serif;
+    padding: 2em;
+
+
+}
+
+
+
+#class="btn btn-lg"
+{
+ 
+margin: 10px 50px 20px;
+
+ width: 500px;
+
+margin:10 auto;
+
+color: red;
+
+background-color: white;
+
+text-align: right;
+
+
+align-content: right;
+
+    font-family: "Montserrat", sans-serif;
+    padding: 2em;
+}
+
+  element.style {
+}
+#buy .btn {
+    color: white;
+    background-color: royalblue;
+    border-color: lightgreen;
+
+}
+.btn-group-lg>.btn, .btn-lg {
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    border-radius: 1rem;
+    }
+
+
+    .btn {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+
+    -moz-user-select: none;
+    user-select: none;
+   
+    border: 3px solid transparent;
+    
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;}
+
+
+ 
+  .image1 {
+float: right;
+margin: -450px -700px 10px;
+    box-sizing: border-box;
+width: 500px;
+    height: 500px;
+border-radius: 0.5rem;
+}
+
+
+ .image2 {
+float: right;
+margin: 0px -700px 10px;
+    box-sizing: border-box;
+width: 500px;
+    height: 500px;
+border-radius: 0.5rem;
+}
+
+ .image3 {
+float: right;
+margin: 550px -700px 10px;
+    box-sizing: border-box;
+width: 500px;
+    height: 500px;
+border-radius: 0.5rem;
+}
+
+
+ .image4 {
+float: right;
+margin: -550px -700px 10px;
+    box-sizing: border-box;
+width: 500px;
+    height: 500px;
+border-radius: 0.5rem;
+}
+
